@@ -14,4 +14,4 @@ This project focuses on developing a vision system using PyTorch and YOLOv8 arch
 2. The trained deep learning model implemented with PyTorch and YOLOv8 architecture accurately classifies drivers as awake or drowsy.
 3. If drowsiness is detected, the system triggers timely alerts to draw the driver's attention to prevent potential accidents.
 
-[Google Collab](https://colab.research.google.com/drive/1LRSzFoN7pwge5dFnkwUBRSdAupUQrIZZ#scrollTo=D2YkphuiaE7_)
+[Kaggle link](https://www.kaggle.com/code/ahmedmoneimm/yolov8-drowsiness-detection)
