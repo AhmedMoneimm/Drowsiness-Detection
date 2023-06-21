@@ -5,7 +5,7 @@ This project focuses on developing a vision system using PyTorch and YOLOv8 arch
 ## Key Features
 
 - Driver drowsiness detection: The system utilizes facial expression analysis to detect signs of driver drowsiness.
-- High accuracy: Leveraging PyTorch and YOLOv8 architecture, the system achieves precise prediction of drivers as awake or drowsy.
+- High accuracy: Leveraging PyTorch, YOLOv8 architecture, the system achieves precise prediction of drivers as awake or drowsy.
 - Promotes driver safety: By detecting signs of drowsiness, the system serves as a valuable tool to raise driver awareness and encourage timely rest breaks, reducing the risk of fatigue-related accidents.
 
 ## How it Works
@@ -15,3 +15,5 @@ This project focuses on developing a vision system using PyTorch and YOLOv8 arch
 3. If drowsiness is detected, the system triggers timely alerts to draw the driver's attention to prevent potential accidents.
 
 [Kaggle link](https://www.kaggle.com/code/ahmedmoneimm/yolov8-drowsiness-detection)
+
+[Video for testing](https://drive.google.com/file/d/1sFI4y5KO26ROC6j7xPCDtyqhio-cBKQ3/view?usp=sharing)
